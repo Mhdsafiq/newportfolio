@@ -85,7 +85,7 @@ function App() {
             <div className="w-48 h-48 mx-auto mb-8 rounded-full bg-gradient-to-br from-blue-600 to-purple-600 p-2">
               <div className="w-full h-full rounded-full bg-white flex items-center justify-center overflow-hidden">
                 <img 
-                  src="safiqcoat.png" 
+                  src="newcp.png" 
                   alt="Mohamed Safiq A" 
                   className="w-full h-full object-cover rounded-full"
                 />
